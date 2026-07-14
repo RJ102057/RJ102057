@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RJ102057
-- 👀 I’m interested in business(HR,finance) as well as IT innovations like big data and cloud computing.
-- 🌱 I’m currently learning Understanding Technology under the CS50 module by Harvard.
-- 💞️ I’m looking to collaborate on any online IT/business courses.
+- 👀 I’m interested in the intersection between AI and business with a keen desire to enter into AI Governance.
+- 🌱 I’m currently learning AI for Business offered by Wharton School of Business via Coursera
+- 💞️ I’m looking to collaborate on AI related projects
 - 📫 You can reach me at reubenjoshy24@gmail.com
 
 <!---
